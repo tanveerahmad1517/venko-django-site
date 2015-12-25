@@ -120,7 +120,6 @@ ROOT_URLCONF = 'venelin.urls'
 WSGI_APPLICATION = 'venelin.wsgi.application'
 
 INSTALLED_APPS = (
-    'wpadmin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
